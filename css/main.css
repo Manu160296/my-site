@@ -402,3 +402,16 @@ h3 {
     }
 
 }
+
+/*estilos de eventos */
+.enabled-menu {
+    display: block;
+    background-color: #ffffff;
+    color: black;
+    position: absolute;
+    right: 0%;
+    top:70px;
+    width: 100px;
+}
+
+
